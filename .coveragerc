@@ -1,0 +1,4 @@
+[run]
+omit =
+[report]
+show_missing = True
